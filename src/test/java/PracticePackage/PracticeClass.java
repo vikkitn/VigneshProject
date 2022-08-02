@@ -9,6 +9,7 @@ public class PracticeClass
 	{
  System.out.println("Practice class 1");
 	}
+	//comments to next method
 	@Test
 	public void vikki()
 	{
