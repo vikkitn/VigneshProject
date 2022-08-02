@@ -8,6 +8,9 @@ public class PracticeClass2 {
 	{
  System.out.println("KTM bike");
 	}
+	/*
+	 * next method
+	 */
 	@Test
 	public void bike()
 	{
